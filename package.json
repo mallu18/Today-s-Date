@@ -1,0 +1,13 @@
+{
+    "name": "todays-day",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "date-fns": "^4.1.0",
+        "date-format": "^4.0.14",
+        "express": "4.17.1"
+    }
+}
